@@ -1,6 +1,6 @@
 # Análisis Cinemático de Galaxias en IllustrisTNG (TNG100-1)
 
-Pipeline completo para la selección, análisis cinemático y clasificación morfológica de galaxias de la simulación cosmológica **IllustrisTNG** (TNG100-1, snapshot 99, z ≈ 0).
+Pipeline para la selección, análisis cinemático y clasificación segun curvas de Luz de galaxias de la simulación cosmológica **IllustrisTNG** (TNG100-1, snapshot 99, 85, 67, 50 y 33).
 
 ## Descripción general
 
